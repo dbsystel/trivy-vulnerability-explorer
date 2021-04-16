@@ -1,0 +1,11 @@
+= How to contribute
+
+== General
+
+Thanks for your interest in our project. Contributions are welcome. Feel free to https://github.com/dbsystel/trivy-vulnerability-explorer/issues[open an issue] with questions or reporting ideas and bugs, or https://github.com/dbsystel/trivy-vulnerability-explorer/pulls[open pull requests] to contribute code.
+
+We are committed to fostering a welcoming, respectful, and harassment-free environment. Be kind!
+
+== Releases
+
+Each commit on main will publish the results on http://dbsystel.github.io/trivy-vulnerability-explorer.
